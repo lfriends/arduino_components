@@ -14,6 +14,7 @@
 
 - [Datasheet & specs](https://www.microchip.com/en-us/product/MCP23017)
 - [Arduino library](https://www.arduino.cc/reference/en/libraries/mcp23017/)
+- [using mcp23017 with rotary encoders](https://github.com/maxgerhardt/rotary-encoder-over-mcp23017)
 
 *Note: MCP23**S**17 – provides SPI interface instead of I2C*
 
