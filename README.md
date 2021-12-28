@@ -52,3 +52,7 @@ Using 1 Analog Pin to Read 4 Buttons
 <img src="https://content.instructables.com/ORIG/FR1/H6DD/HT7P4YJM/FR1H6DDHT7P4YJM.jpg?auto=webp&frame=1&width=999&height=1024&fit=bounds&md=778fc1e5ca874763e493845743633902" width=300>
 
 - [link here](https://www.instructables.com/Using-one-analog-pin-to-read-4-buttons-Arduino/)
+
+---
+***TP4056 LI-ION Battery charger***
+<img src="https://ae01.alicdn.com/kf/HTB1NQTILxnaK1RjSZFtq6zC2VXao.jpg" width=250>
