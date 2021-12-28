@@ -32,6 +32,7 @@ magin 3pins digits controlling more Display
 **74HC595 8-bit shift register**
 
 ![component](https://user-images.githubusercontent.com/69033251/147548151-0b67c0d7-17cd-4fed-9026-2112d08f60f6.png)
+<img src="https://haberocean.com/wp-content/uploads/2019/10/32-bit-shift-register-arduino-e1596739277671.jpg" width=300>
 
 - It is a shift register with 8-bit serial input and 8-bit serial or 3-state parallel outputs.
 - The operating voltage of this IC is from 2V to 6V.
@@ -40,6 +41,7 @@ magin 3pins digits controlling more Display
 Links
 - [additional infos](https://microcontrollerslab.com/74hc595-shift-register-interfacing-arduino/)
 - [example using IC for input using SN74HC165N](http://www.51hei.com/bbs/dpj-48284-1.html)
+- [32-bit shift register using 75HC595](https://haberocean.com/2020/08/32-bit-shift-register-module-using-74hc595-controlled-using-arduino-uno/)
 
 ---
 **4 button on 1 pin**
