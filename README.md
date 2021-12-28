@@ -39,3 +39,13 @@ magin 3pins digits controlling more Display
 
 Links
 - [additional infos](https://microcontrollerslab.com/74hc595-shift-register-interfacing-arduino/)
+- [example using IC for input using SN74HC165N](http://www.51hei.com/bbs/dpj-48284-1.html)
+
+---
+**4 button on 1 pin**
+
+Using 1 Analog Pin to Read 4 Buttons
+
+<img src="https://content.instructables.com/ORIG/FR1/H6DD/HT7P4YJM/FR1H6DDHT7P4YJM.jpg?auto=webp&frame=1&width=999&height=1024&fit=bounds&md=778fc1e5ca874763e493845743633902" width=300>
+
+- [link here](https://www.instructables.com/Using-one-analog-pin-to-read-4-buttons-Arduino/)
