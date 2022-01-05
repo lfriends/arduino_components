@@ -1,9 +1,10 @@
 # Components
 
-**TCA9548A MUX I2C**
+**TCA9548A I2C MUX**
+
 With its eight channels, the TCA9548A makes it possible to operate eight I2C devices with the same address on one I2C bus. 
 
-<img width=400 src="https://wolles-elektronikkiste.de/wp-content/uploads/2021/05/TCA9548A_Basic-1024x501.png">
+<img width=400 src="https://wolles-elektronikkiste.de/wp-content/uploads/2021/05/TCA9548A_Basic-1024x501.png"> <img width=300 src="https://randomnerdtutorials.com/wp-content/uploads/2021/07/Guide-TCA9548A-I2C-Multiplexer-ESP32-EP8266-Arduino.jpg">
   
 - [additional infos](https://wolles-elektronikkiste.de/en/tca9548a-i2c-multiplexer)
 - [video] (https://www.youtube.com/watch?v=HLd_ZyfEFGc)
