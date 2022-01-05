@@ -30,7 +30,8 @@ magin 3pins digits controlling more Display
 - [Arduino exxample](https://www.instructables.com/MAX7219-7-Segment-Using-Arduino/)
 
 ---
-**74HC595 8-bit shift register**
+**74HC595 8-bit shift register OUTPUT**
+**74HC165 8-bit shift register INPUT**
 
 ![component](https://user-images.githubusercontent.com/69033251/147548151-0b67c0d7-17cd-4fed-9026-2112d08f60f6.png)
 <img src="https://haberocean.com/wp-content/uploads/2019/10/32-bit-shift-register-arduino-e1596739277671.jpg" width=300>
@@ -55,4 +56,5 @@ Using 1 Analog Pin to Read 4 Buttons
 
 ---
 ***TP4056 LI-ION Battery charger***
+
 <img src="https://ae01.alicdn.com/kf/HTB1NQTILxnaK1RjSZFtq6zC2VXao.jpg" width=250>
