@@ -26,7 +26,11 @@ With its eight channels, the TCA9548A makes it possible to operate eight I2C dev
 - [Arduino library](https://www.arduino.cc/reference/en/libraries/mcp23017/)
 - [using mcp23017 with rotary encoders](https://github.com/maxgerhardt/rotary-encoder-over-mcp23017)
 
-*Note: MCP23**S**17 – provides SPI interface instead of I2C*
+> *Note: MCP23**S**17 – provides SPI interface instead of I2C*
+> 
+> *... that can operate at 10MHz (a lot faster than the I2C version). This SPI device has the  same number and arrangement of pins, but uses two unused (I2C) pins to implement the SPI  interface. In all other respects it operates the same as the MCP23017.*
+
+
 
 ---
 **MAX7219/MAX7221 8-Digit LED Display Driver**
@@ -41,6 +45,7 @@ magin 3pins digits controlling more Display
 
 ---
 **74HC595 8-bit shift register OUTPUT**
+__ & __
 **74HC165 8-bit shift register INPUT**
 
 ![component](https://user-images.githubusercontent.com/69033251/147548151-0b67c0d7-17cd-4fed-9026-2112d08f60f6.png)
