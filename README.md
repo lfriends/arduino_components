@@ -49,7 +49,7 @@ __ & __
 **74HC165 8-bit shift register INPUT**
 
 ![component](https://user-images.githubusercontent.com/69033251/147548151-0b67c0d7-17cd-4fed-9026-2112d08f60f6.png)
-<img src="https://haberocean.com/wp-content/uploads/2019/10/32-bit-shift-register-arduino-e1596739277671.jpg" width=300>
+<img src="https://2.bp.blogspot.com/-h6w2kJDRN9w/VYegrqvKlUI/AAAAAAAAHxg/fZCbjlqaEi4/s1600/wiring.JPG" height=300>
 
 - It is a shift register with 8-bit serial input and 8-bit serial or 3-state parallel outputs.
 - The operating voltage of this IC is from 2V to 6V.
@@ -65,7 +65,7 @@ Links
 
 Using 1 Analog Pin to Read 4 Buttons
 
-<img src="https://content.instructables.com/ORIG/FR1/H6DD/HT7P4YJM/FR1H6DDHT7P4YJM.jpg?auto=webp&frame=1&width=999&height=1024&fit=bounds&md=778fc1e5ca874763e493845743633902" width=300>
+<img src="https://content.instructables.com/ORIG/FR1/H6DD/HT7P4YJM/FR1H6DDHT7P4YJM.jpg?auto=webp&frame=1&width=999&height=1024&fit=bounds&md=778fc1e5ca874763e493845743633902" height=300>
 
 - [link here](https://www.instructables.com/Using-one-analog-pin-to-read-4-buttons-Arduino/)
 
