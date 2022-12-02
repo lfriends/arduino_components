@@ -13,6 +13,8 @@ With its eight channels, the TCA9548A makes it possible to operate eight I2C dev
 
 **MCP23017 Port expansion**
 
+* checkout also the specific folder [MCP23017](MCP23017)
+
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.refT_4hqeIE-qElhNAWYCwHaCr%26pid%3DApi&f=1" alt="drawing" height="110"/> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.6HQeFNFjhfzpgxbkoepJJgHaEV%26pid%3DApi&f=1" alt="drawing" height="120"/><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.6fE7VvNEaynar9eXcjTdaQHaCn%26pid%3DApi&f=1" height=155>
 
 
